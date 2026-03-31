@@ -12,10 +12,10 @@ a visualization of the data from that simulation. The simulation will be done us
 previously mentioned.
 
 # Files Key 
-ACD - Annotated Code Document
-Code - Jupyter Notebook containing the code used to analyze and plot the data used in the project
-Gantt Chart - Gantt Chart for this project
-Report - Comprehensive report over this project
-Timesheet - Timesheet documenting time spent working on this project
-NGSIM(in) - NGSIM data used in this project
-NHTS(in) - NHTS data used in this project
+ACD - Annotated Code Document  
+Code - Jupyter Notebook containing the code used to analyze and plot the data used in the project  
+Gantt Chart - Gantt Chart for this project  
+Report - Comprehensive report over this project  
+Timesheet - Timesheet documenting time spent working on this project  
+NGSIM(in) - NGSIM data used in this project  
+NHTS(in) - NHTS data used in this project  
